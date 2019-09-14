@@ -19,11 +19,13 @@
 }
 
 .imagebar {
+  display: flex;
   position: absolute;
   top: 12%;
   width: 100%;
   background-color: #00000088;
   padding: 10px;
+  justify-content: center;
 }
 .page {
   display: flex;
